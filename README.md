@@ -62,12 +62,6 @@ python src/train.py --data data/your_dataset.csv
 python src/eval.py  --data data/your_dataset.csv
 ```
 
-## ✅ Interview Talking Points
-
-- Clear ML pipeline: preprocessing (TF‑IDF) → classifier (LogReg) → evaluation → simple UI
-- Trade-offs: fast to train, interpretable, strong baseline for text classification
-- Next steps: hyperparameter tuning, n-grams, class weights, using more data, or upgrading to transformer models
-
 ## 📝 License
 
 MIT
